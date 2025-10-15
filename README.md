@@ -22,9 +22,28 @@ This is a simple web application built with **Streamlit** and **Hugging Face Tra
 The required packages are listed in `requirements.txt`.
 
 ---
+## Project Structure
+
+TextSummarizer/
+├── App.py           # Main Streamlit app
+├── requirements.txt # Python dependencies
+└── README.md        # Project documentation
+
+---
 
 ## Installation
 
 1. **Clone the repository** (or download the files):
 
+```bash
+git clone https://github.com/Aayush9921/TextSummarizer.git
+cd TextSummarizer
+
+2. **Install dependencies:**
+
+pip install -r requirements.txt
+
+3. **Run the Streamlit app:**
+
+streamlit run App.py
 
