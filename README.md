@@ -25,9 +25,9 @@ The required packages are listed in `requirements.txt`.
 ## Project Structure
 
 TextSummarizer/
-├── App.py           # Main Streamlit app
-├── requirements.txt # Python dependencies
-└── README.md        # Project documentation
+ - App.py            # Main Streamlit app
+ -requirements.txt   # Python dependencies
+ -README.md          # Project documentation
 
 ---
 
@@ -38,6 +38,7 @@ TextSummarizer/
 ```bash
 git clone https://github.com/Aayush9921/TextSummarizer.git
 cd TextSummarizer
+```
 
 2. **Install dependencies:**
 
