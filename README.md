@@ -27,7 +27,7 @@ The required packages are listed in `requirements.txt`.
 TextSummarizer/
  - App.py            # Main Streamlit app
  -requirements.txt   # Python dependencies
- -README.md          # Project documentation
+ -README.md         s # Project documentation
 
 ---
 
@@ -42,9 +42,11 @@ cd TextSummarizer
 
 2. **Install dependencies:**
 
+```bash
 pip install -r requirements.txt
-
+```
 3. **Run the Streamlit app:**
-
+   
+```bash
 streamlit run App.py
-
+```
